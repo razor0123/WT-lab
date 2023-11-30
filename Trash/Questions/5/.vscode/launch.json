@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BillApplication<bill>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.bill.BillApplication",
+            "projectName": "bill",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
