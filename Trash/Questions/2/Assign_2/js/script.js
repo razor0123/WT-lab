@@ -1,7 +1,0 @@
-$(document).ready(function() {
-    // Initialize Bootstrap tabs
-    $('#projectTabs a').on('click', function (e) {
-        e.preventDefault();
-        $(this).tab('show');
-    });
-});
